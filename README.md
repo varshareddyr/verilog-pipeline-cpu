@@ -12,7 +12,6 @@ This project implements a simple 4-stage pipelined processor using Verilog HDL a
 - Icarus Verilog
 - EPWave Viewer
 - https://edaplayground.com/x/PKZQ#share-tab
-- 
 
 ## Sample Waveform
 ![Waveform](waveform.png)
