@@ -14,4 +14,4 @@ This project implements a simple 4-stage pipelined processor using Verilog HDL a
 - https://edaplayground.com/x/PKZQ#share-tab
 
 ## Sample Waveform
-![Waveform](waveform.png)
+![Waveform](pipeline.png.png)
