@@ -4,8 +4,8 @@ This project implements a simple 4-stage pipelined processor using Verilog HDL a
 
 ## Files
 - `pipeline.v` – Processor logic
-- `tb.v` – Testbench for simulation
-- `waveform.png` – Output waveform (EPWave)
+- `tb_pipeline.v` – Testbench for simulation
+- `pipeline.png.png` – Output waveform (EPWave)
 
 ## Tools Used
 - EDA Playground (https://edaplayground.com/)
